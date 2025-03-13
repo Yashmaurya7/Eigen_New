@@ -117,6 +117,7 @@ export default function Home() {
   return (
     <div> 
        <Head>
+       <meta name="google-site-verification" content="qW6KkAek6eBg_tgEvePz4_6VGgmqcDBOTKWmcyArWsk" />
         <title>Eigengram - Let No Disease Go Untreated</title>
         <meta
           name="description"

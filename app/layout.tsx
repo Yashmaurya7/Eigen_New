@@ -10,7 +10,10 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Eigengram',
-  description: 'We are an medicinal Ai company striving to solve diseases with the help of technology',
+  description: 'We are a medicinal AI company striving to solve diseases with the help of technology',
+  other: {
+    'google-site-verification': 'qW6KkAek6eBg_tgEvePz4_6VGgmqcDBOTKWmcyArWsk',
+  },
 };
 
 export default function RootLayout({
